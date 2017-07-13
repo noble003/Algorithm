@@ -1,0 +1,4 @@
+﻿  parenthesis.cpp
+c:\users\user\documents\visual studio 2015\projects\consoleapplication46\consoleapplication46\parenthesis.cpp(76): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ConsoleApplication46.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\ConsoleApplication46\Debug\ConsoleApplication46.exe
+  ConsoleApplication46.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\ConsoleApplication46\Debug\ConsoleApplication46.pdb (Full PDB)
